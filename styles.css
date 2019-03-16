@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    margin: 0px;
+}
+div.background {
+	background-image: url(background.jpg);
+    background-size: cover;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+div.animate {
+    height: 115px;
+    width: 180px;
+}
